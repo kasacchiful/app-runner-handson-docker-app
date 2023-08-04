@@ -1,4 +1,4 @@
-# AWS App Runner Hands-on: Simple Web App
+# AWS App Runner Hands-on: Docker App
 
 ## Build
 

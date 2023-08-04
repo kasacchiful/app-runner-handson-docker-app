@@ -1,0 +1,11 @@
+{
+  "name": "app-runner-handson-docker-app",
+  "version": "1.0.0",
+  "description": "AWS App Runner Hands-on for JAWS-UG Niigata",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
